@@ -24,13 +24,11 @@ input[type="text"]{
 }
 button[type="submit"]{
   padding: 12px 18px;
-  /* background-color: aquamarine; */
   background-color: lightgray;
   border-radius: 4px;
   cursor: pointer;
 }
 button[type="submit"]:hover{
-  /* background-color: royalblue; */
   background-color: rgb(28, 23, 23);
 }
 .counter{
